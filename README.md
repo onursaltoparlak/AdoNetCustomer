@@ -31,13 +31,16 @@ Bu proje, ADO.NET kullanarak veritabanı işlemlerini gerçekleştirmeyi ve kull
 Aşağıda uygulamaya ait bazı ekran görüntülerini görebilirsiniz:
 
 ### 🔹 Menü Ekranı
-![Menü]([images/musteri-yonetimi.png](https://github.com/user-attachments/assets/3b8f8b92-b03c-439a-ae00-202362b8e10d))
+![fotofirst](https://github.com/user-attachments/assets/38ace46f-40ec-49cc-92b7-1e02ce7516fb)
 
 ### 🔹 Şehir Yönetimi Ekranı
-![Şehir Yönetimi]([images/sehir-yonetimi.png](https://github.com/user-attachments/assets/ea212c1d-a439-4c75-9c00-74957805e069))
+![fotosecond](https://github.com/user-attachments/assets/170408c2-48e3-4843-a112-bba573d982e4)
 
 ### 🔹 Müşteri Yönetimi Ekranı
-![Müşteri Ekleme]([images/musteri-ekle.png](https://github.com/user-attachments/assets/7399b65f-158d-4bc1-802e-140c03b95ded))
+![fotothird](https://github.com/user-attachments/assets/098a8079-1e20-47c5-9e71-a7525b04c944)
+
+
+
 
 
 
